@@ -4,7 +4,7 @@ public class Bancario {
     private String nome;
     private Pagamento pagamento;
 
-    public Bancario(String nome, Pagamento pgamento){
+    public Bancario(String nome, Pagamento pagamento){
         this.nome = nome;
         this.pagamento = pagamento;
     }
